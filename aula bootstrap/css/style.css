@@ -1,0 +1,26 @@
+body{
+    font: 70px, Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(158, 0, 0);
+}
+
+.quem-somos {
+    background-color: #000;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.para_onde_vamos {
+    background-color: aqua;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
